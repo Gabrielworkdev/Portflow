@@ -1,0 +1,60 @@
+.header {
+    height: 30px;
+    width: auto;
+    width: 315px;   
+}
+
+.titleheader {
+  width: auto;
+  display: flex;
+justify-content: center;
+margin-left: 6rem;
+}
+
+.menuheader{
+width: 315px;
+}
+
+
+
+.imgprincipal {
+    background-image: url("assets/laranja_azul_recorte_mobile.png");
+}
+.menuitem{
+    visibility: hidden;
+}
+.image{
+    display: flex;
+    flex-direction: column;
+    padding: 0;
+    margin: 0;
+}
+.main{
+    width: 315px;
+}
+.footer{
+    display: flex;
+    flex-direction: column;
+    width: 315px;
+    padding: 0;
+    margin: 0;
+    height: 8rem;
+
+}
+.imgfooter{
+    width: auto;
+    padding: 0;
+    margin: 0; 
+    margin-top: 1rem;
+}
+.textfooter{
+   display: flex;
+   flex-direction: column;
+   justify-content: flex-start;
+   margin-top: 3%;
+}
+
+.text{
+   margin-top: 3%;
+    
+}
